@@ -1,0 +1,224 @@
+{
+  "meals": [
+    {
+      "name": "Protein Oatmeal Bowl",
+      "type": "breakfast",
+      "calories": 450,
+      "protein": 35,
+      "carbs": 55,
+      "fat": 10,
+      "ingredients": ["oats", "protein powder", "banana", "almond milk", "honey", "chia seeds"],
+      "goal": ["build_muscle", "stay_fit"],
+      "preparation": "Cook oats with almond milk, stir in protein powder, top with sliced banana, chia seeds, and drizzle of honey."
+    },
+    {
+      "name": "Greek Yogurt Parfait",
+      "type": "breakfast",
+      "calories": 380,
+      "protein": 28,
+      "carbs": 45,
+      "fat": 8,
+      "ingredients": ["greek yogurt", "granola", "mixed berries", "honey"],
+      "goal": ["lose_weight", "stay_fit"],
+      "preparation": "Layer Greek yogurt with granola and fresh berries. Drizzle with honey."
+    },
+    {
+      "name": "Egg White Veggie Omelette",
+      "type": "breakfast",
+      "calories": 280,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 10,
+      "ingredients": ["egg whites", "spinach", "tomatoes", "onions", "bell peppers", "feta cheese"],
+      "goal": ["lose_weight", "build_muscle"],
+      "preparation": "Sauté vegetables, pour in beaten egg whites, add feta, fold when set."
+    },
+    {
+      "name": "Avocado Toast with Eggs",
+      "type": "breakfast",
+      "calories": 420,
+      "protein": 18,
+      "carbs": 35,
+      "fat": 24,
+      "ingredients": ["whole grain bread", "avocado", "eggs", "cherry tomatoes", "salt", "pepper"],
+      "goal": ["stay_fit", "build_muscle"],
+      "preparation": "Toast bread, mash avocado on top, add poached or fried eggs, garnish with tomatoes."
+    },
+    {
+      "name": "Grilled Chicken Salad",
+      "type": "lunch",
+      "calories": 420,
+      "protein": 45,
+      "carbs": 20,
+      "fat": 18,
+      "ingredients": ["chicken breast", "mixed greens", "cherry tomatoes", "cucumber", "olive oil", "lemon"],
+      "goal": ["lose_weight", "build_muscle"],
+      "preparation": "Grill seasoned chicken breast, slice and serve over mixed greens with vegetables and lemon olive oil dressing."
+    },
+    {
+      "name": "Quinoa Buddha Bowl",
+      "type": "lunch",
+      "calories": 520,
+      "protein": 22,
+      "carbs": 65,
+      "fat": 18,
+      "ingredients": ["quinoa", "chickpeas", "roasted vegetables", "hummus", "tahini", "spinach"],
+      "goal": ["stay_fit", "build_muscle"],
+      "preparation": "Cook quinoa, roast vegetables, combine in bowl with chickpeas, spinach, hummus and tahini drizzle."
+    },
+    {
+      "name": "Turkey Wrap",
+      "type": "lunch",
+      "calories": 380,
+      "protein": 35,
+      "carbs": 32,
+      "fat": 12,
+      "ingredients": ["whole wheat wrap", "turkey breast", "lettuce", "tomato", "mustard", "avocado"],
+      "goal": ["lose_weight", "stay_fit"],
+      "preparation": "Layer turkey, vegetables, and avocado on wrap with mustard, roll tightly."
+    },
+    {
+      "name": "Tuna Salad Sandwich",
+      "type": "lunch",
+      "calories": 400,
+      "protein": 38,
+      "carbs": 35,
+      "fat": 14,
+      "ingredients": ["canned tuna", "greek yogurt", "celery", "whole grain bread", "lettuce"],
+      "goal": ["build_muscle", "lose_weight"],
+      "preparation": "Mix tuna with Greek yogurt and diced celery, serve on whole grain bread with lettuce."
+    },
+    {
+      "name": "Salmon with Sweet Potato",
+      "type": "dinner",
+      "calories": 550,
+      "protein": 42,
+      "carbs": 45,
+      "fat": 20,
+      "ingredients": ["salmon fillet", "sweet potato", "broccoli", "olive oil", "lemon", "garlic"],
+      "goal": ["build_muscle", "stay_fit"],
+      "preparation": "Bake salmon with lemon and garlic, serve with roasted sweet potato and steamed broccoli."
+    },
+    {
+      "name": "Lean Beef Stir Fry",
+      "type": "dinner",
+      "calories": 480,
+      "protein": 40,
+      "carbs": 35,
+      "fat": 18,
+      "ingredients": ["lean beef strips", "brown rice", "bell peppers", "broccoli", "soy sauce", "ginger"],
+      "goal": ["build_muscle", "stay_fit"],
+      "preparation": "Stir fry beef with vegetables in ginger and soy sauce, serve over brown rice."
+    },
+    {
+      "name": "Grilled Chicken with Vegetables",
+      "type": "dinner",
+      "calories": 420,
+      "protein": 48,
+      "carbs": 25,
+      "fat": 14,
+      "ingredients": ["chicken breast", "zucchini", "bell peppers", "onions", "olive oil", "herbs"],
+      "goal": ["lose_weight", "build_muscle"],
+      "preparation": "Grill seasoned chicken breast, serve with grilled mixed vegetables."
+    },
+    {
+      "name": "Shrimp and Veggie Pasta",
+      "type": "dinner",
+      "calories": 520,
+      "protein": 35,
+      "carbs": 55,
+      "fat": 16,
+      "ingredients": ["shrimp", "whole wheat pasta", "cherry tomatoes", "spinach", "garlic", "olive oil"],
+      "goal": ["stay_fit", "build_muscle"],
+      "preparation": "Cook pasta, sauté shrimp with garlic, tomatoes and spinach, combine and toss with olive oil."
+    },
+    {
+      "name": "Turkey Meatballs with Zoodles",
+      "type": "dinner",
+      "calories": 380,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 16,
+      "ingredients": ["ground turkey", "zucchini noodles", "marinara sauce", "parmesan", "Italian herbs"],
+      "goal": ["lose_weight", "build_muscle"],
+      "preparation": "Bake turkey meatballs, serve over spiralized zucchini with marinara and parmesan."
+    },
+    {
+      "name": "Protein Shake",
+      "type": "snack",
+      "calories": 250,
+      "protein": 30,
+      "carbs": 20,
+      "fat": 5,
+      "ingredients": ["whey protein", "banana", "almond milk", "peanut butter"],
+      "goal": ["build_muscle", "stay_fit"],
+      "preparation": "Blend all ingredients until smooth."
+    },
+    {
+      "name": "Greek Yogurt with Nuts",
+      "type": "snack",
+      "calories": 220,
+      "protein": 18,
+      "carbs": 15,
+      "fat": 10,
+      "ingredients": ["greek yogurt", "almonds", "walnuts", "honey"],
+      "goal": ["build_muscle", "stay_fit"],
+      "preparation": "Top Greek yogurt with mixed nuts and a drizzle of honey."
+    },
+    {
+      "name": "Apple with Almond Butter",
+      "type": "snack",
+      "calories": 200,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 10,
+      "ingredients": ["apple", "almond butter"],
+      "goal": ["lose_weight", "stay_fit"],
+      "preparation": "Slice apple and serve with almond butter for dipping."
+    },
+    {
+      "name": "Cottage Cheese with Fruit",
+      "type": "snack",
+      "calories": 180,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 3,
+      "ingredients": ["cottage cheese", "pineapple", "peaches"],
+      "goal": ["lose_weight", "build_muscle"],
+      "preparation": "Top cottage cheese with fresh or canned fruit."
+    },
+    {
+      "name": "Veggie Sticks with Hummus",
+      "type": "snack",
+      "calories": 150,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 7,
+      "ingredients": ["carrots", "celery", "cucumber", "hummus"],
+      "goal": ["lose_weight", "stay_fit"],
+      "preparation": "Cut vegetables into sticks and serve with hummus."
+    },
+    {
+      "name": "Hard Boiled Eggs",
+      "type": "snack",
+      "calories": 140,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 10,
+      "ingredients": ["eggs", "salt", "pepper"],
+      "goal": ["build_muscle", "lose_weight"],
+      "preparation": "Boil eggs for 10 minutes, cool, peel, and season."
+    },
+    {
+      "name": "Overnight Oats",
+      "type": "breakfast",
+      "calories": 400,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 12,
+      "ingredients": ["oats", "milk", "chia seeds", "maple syrup", "berries"],
+      "goal": ["stay_fit", "build_muscle"],
+      "preparation": "Mix oats, milk, chia seeds, and maple syrup. Refrigerate overnight. Top with berries."
+    }
+  ]
+}

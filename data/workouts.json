@@ -1,0 +1,254 @@
+{
+  "exercises": [
+    {
+      "name": "Push-ups",
+      "muscle_group": "chest",
+      "difficulty": "beginner",
+      "description": "Classic bodyweight exercise targeting chest, shoulders, and triceps",
+      "instructions": "Start in plank position with hands shoulder-width apart. Lower your body until chest nearly touches the floor, keeping core tight. Push back up to starting position.",
+      "sets": 3,
+      "reps": "10-15",
+      "equipment": "none"
+    },
+    {
+      "name": "Bench Press",
+      "muscle_group": "chest",
+      "difficulty": "intermediate",
+      "description": "Fundamental barbell exercise for building chest strength and mass",
+      "instructions": "Lie on bench, grip bar slightly wider than shoulders. Lower bar to mid-chest, pause briefly, then press up explosively.",
+      "sets": 4,
+      "reps": "8-12",
+      "equipment": "barbell, bench"
+    },
+    {
+      "name": "Dumbbell Flyes",
+      "muscle_group": "chest",
+      "difficulty": "intermediate",
+      "description": "Isolation exercise for chest muscle stretching and contraction",
+      "instructions": "Lie on bench with dumbbells above chest, arms slightly bent. Lower weights in an arc until you feel a stretch, then bring back up.",
+      "sets": 3,
+      "reps": "12-15",
+      "equipment": "dumbbells, bench"
+    },
+    {
+      "name": "Pull-ups",
+      "muscle_group": "back",
+      "difficulty": "intermediate",
+      "description": "Excellent compound exercise for back and biceps development",
+      "instructions": "Hang from bar with overhand grip. Pull yourself up until chin is over bar, lower with control.",
+      "sets": 3,
+      "reps": "6-10",
+      "equipment": "pull-up bar"
+    },
+    {
+      "name": "Lat Pulldown",
+      "muscle_group": "back",
+      "difficulty": "beginner",
+      "description": "Machine exercise that mimics pull-up motion, great for beginners",
+      "instructions": "Sit at machine, grip bar wider than shoulders. Pull bar down to upper chest, squeeze back muscles, slowly return.",
+      "sets": 3,
+      "reps": "10-12",
+      "equipment": "cable machine"
+    },
+    {
+      "name": "Bent Over Rows",
+      "muscle_group": "back",
+      "difficulty": "intermediate",
+      "description": "Compound movement for building back thickness",
+      "instructions": "Bend at hips with slight knee bend, back flat. Pull barbell to lower chest, squeeze shoulder blades together.",
+      "sets": 4,
+      "reps": "8-10",
+      "equipment": "barbell"
+    },
+    {
+      "name": "Squats",
+      "muscle_group": "legs",
+      "difficulty": "beginner",
+      "description": "King of leg exercises, works quads, hamstrings, and glutes",
+      "instructions": "Stand with feet shoulder-width apart. Lower by bending knees and hips, keeping chest up. Go until thighs are parallel, then drive up.",
+      "sets": 4,
+      "reps": "8-12",
+      "equipment": "barbell (optional)"
+    },
+    {
+      "name": "Lunges",
+      "muscle_group": "legs",
+      "difficulty": "beginner",
+      "description": "Unilateral exercise great for leg strength and balance",
+      "instructions": "Step forward with one leg, lower until both knees are at 90 degrees. Push back to starting position. Alternate legs.",
+      "sets": 3,
+      "reps": "10-12 each leg",
+      "equipment": "none or dumbbells"
+    },
+    {
+      "name": "Leg Press",
+      "muscle_group": "legs",
+      "difficulty": "beginner",
+      "description": "Machine exercise for safely building leg strength",
+      "instructions": "Sit in machine with feet shoulder-width on platform. Lower weight by bending knees to 90 degrees, then press up.",
+      "sets": 4,
+      "reps": "10-12",
+      "equipment": "leg press machine"
+    },
+    {
+      "name": "Romanian Deadlift",
+      "muscle_group": "legs",
+      "difficulty": "intermediate",
+      "description": "Excellent exercise for hamstrings and lower back",
+      "instructions": "Hold barbell at hips, slight knee bend. Hinge at hips, lowering bar along legs until you feel hamstring stretch. Return to standing.",
+      "sets": 3,
+      "reps": "10-12",
+      "equipment": "barbell or dumbbells"
+    },
+    {
+      "name": "Overhead Press",
+      "muscle_group": "shoulders",
+      "difficulty": "intermediate",
+      "description": "Primary compound movement for shoulder development",
+      "instructions": "Stand with barbell at shoulder height. Press overhead until arms are fully extended. Lower with control.",
+      "sets": 4,
+      "reps": "8-10",
+      "equipment": "barbell or dumbbells"
+    },
+    {
+      "name": "Lateral Raises",
+      "muscle_group": "shoulders",
+      "difficulty": "beginner",
+      "description": "Isolation exercise for side deltoid development",
+      "instructions": "Stand with dumbbells at sides. Raise arms out to sides until parallel with ground, lower slowly.",
+      "sets": 3,
+      "reps": "12-15",
+      "equipment": "dumbbells"
+    },
+    {
+      "name": "Bicep Curls",
+      "muscle_group": "arms",
+      "difficulty": "beginner",
+      "description": "Classic isolation exercise for bicep development",
+      "instructions": "Stand with dumbbells at sides, palms forward. Curl weights up by bending elbows, squeeze at top, lower slowly.",
+      "sets": 3,
+      "reps": "10-12",
+      "equipment": "dumbbells or barbell"
+    },
+    {
+      "name": "Tricep Dips",
+      "muscle_group": "arms",
+      "difficulty": "beginner",
+      "description": "Bodyweight exercise for tricep development",
+      "instructions": "Place hands on bench behind you, legs extended. Lower body by bending elbows to 90 degrees, push back up.",
+      "sets": 3,
+      "reps": "10-15",
+      "equipment": "bench or parallel bars"
+    },
+    {
+      "name": "Hammer Curls",
+      "muscle_group": "arms",
+      "difficulty": "beginner",
+      "description": "Bicep variation that also targets forearms",
+      "instructions": "Hold dumbbells with palms facing each other. Curl up while maintaining neutral grip, lower with control.",
+      "sets": 3,
+      "reps": "10-12",
+      "equipment": "dumbbells"
+    },
+    {
+      "name": "Plank",
+      "muscle_group": "core",
+      "difficulty": "beginner",
+      "description": "Isometric exercise for core stability",
+      "instructions": "Hold push-up position on forearms. Keep body in straight line from head to heels. Hold for time.",
+      "sets": 3,
+      "reps": "30-60 seconds",
+      "equipment": "none"
+    },
+    {
+      "name": "Crunches",
+      "muscle_group": "core",
+      "difficulty": "beginner",
+      "description": "Basic abdominal exercise for the rectus abdominis",
+      "instructions": "Lie on back with knees bent. Curl shoulders off ground toward knees, squeeze abs, lower with control.",
+      "sets": 3,
+      "reps": "15-20",
+      "equipment": "none"
+    },
+    {
+      "name": "Russian Twists",
+      "muscle_group": "core",
+      "difficulty": "intermediate",
+      "description": "Rotational exercise for obliques",
+      "instructions": "Sit with knees bent, lean back slightly. Rotate torso side to side, touching ground beside hips.",
+      "sets": 3,
+      "reps": "20 total",
+      "equipment": "none or medicine ball"
+    },
+    {
+      "name": "Deadlift",
+      "muscle_group": "full body",
+      "difficulty": "advanced",
+      "description": "Fundamental compound lift for overall strength",
+      "instructions": "Stand with feet hip-width, bar over mid-foot. Hinge and grip bar. Drive through heels, stand up while keeping bar close to body.",
+      "sets": 4,
+      "reps": "5-8",
+      "equipment": "barbell"
+    },
+    {
+      "name": "Burpees",
+      "muscle_group": "full body",
+      "difficulty": "intermediate",
+      "description": "High-intensity full body exercise for conditioning",
+      "instructions": "From standing, drop to squat, kick feet back to plank, do push-up, jump feet forward, jump up with arms overhead.",
+      "sets": 3,
+      "reps": "10-15",
+      "equipment": "none"
+    },
+    {
+      "name": "Mountain Climbers",
+      "muscle_group": "full body",
+      "difficulty": "beginner",
+      "description": "Dynamic exercise for cardio and core",
+      "instructions": "Start in plank position. Drive knees alternately toward chest in running motion.",
+      "sets": 3,
+      "reps": "30 seconds",
+      "equipment": "none"
+    },
+    {
+      "name": "Jumping Jacks",
+      "muscle_group": "cardio",
+      "difficulty": "beginner",
+      "description": "Classic cardio exercise for warm-up or conditioning",
+      "instructions": "Start standing with arms at sides. Jump feet out while raising arms overhead. Jump back to start.",
+      "sets": 3,
+      "reps": "30 seconds",
+      "equipment": "none"
+    },
+    {
+      "name": "High Knees",
+      "muscle_group": "cardio",
+      "difficulty": "beginner",
+      "description": "Running in place with high knee drive for cardio",
+      "instructions": "Run in place, driving knees up to hip height. Pump arms in running motion.",
+      "sets": 3,
+      "reps": "30 seconds",
+      "equipment": "none"
+    },
+    {
+      "name": "Box Jumps",
+      "muscle_group": "legs",
+      "difficulty": "intermediate",
+      "description": "Plyometric exercise for explosive leg power",
+      "instructions": "Stand facing box. Bend knees and swing arms back, then explode up onto box. Step down and repeat.",
+      "sets": 3,
+      "reps": "8-10",
+      "equipment": "plyo box"
+    },
+    {
+      "name": "Cable Crossover",
+      "muscle_group": "chest",
+      "difficulty": "intermediate",
+      "description": "Isolation exercise for chest using cable machine",
+      "instructions": "Stand between cable stations, grab handles. Bring hands together in front of chest in hugging motion.",
+      "sets": 3,
+      "reps": "12-15",
+      "equipment": "cable machine"
+    }
+  ]
+}

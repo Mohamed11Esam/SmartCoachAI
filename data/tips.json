@@ -1,0 +1,129 @@
+{
+  "tips": [
+    {
+      "topic": "Muscle Building",
+      "category": "training",
+      "content": "For muscle growth, aim for 8-12 reps per set with a weight that challenges you. Progressive overload - gradually increasing weight or reps - is key to continued gains."
+    },
+    {
+      "topic": "Weight Loss",
+      "category": "nutrition",
+      "content": "Create a caloric deficit of 300-500 calories per day for sustainable weight loss. Focus on protein intake to preserve muscle mass while losing fat."
+    },
+    {
+      "topic": "Recovery",
+      "category": "training",
+      "content": "Muscles grow during rest, not during workouts. Aim for 7-9 hours of sleep per night and allow 48 hours between training the same muscle group."
+    },
+    {
+      "topic": "Protein Intake",
+      "category": "nutrition",
+      "content": "For muscle building, consume 1.6-2.2 grams of protein per kilogram of body weight daily. Spread intake across 4-5 meals for optimal absorption."
+    },
+    {
+      "topic": "Hydration",
+      "category": "nutrition",
+      "content": "Drink at least 2-3 liters of water daily. Increase intake during workouts - aim for 500ml per hour of exercise."
+    },
+    {
+      "topic": "Warm-up",
+      "category": "training",
+      "content": "Always warm up for 5-10 minutes before lifting weights. This increases blood flow, reduces injury risk, and improves performance."
+    },
+    {
+      "topic": "Form",
+      "category": "training",
+      "content": "Proper form is more important than heavy weight. Master the movement pattern with lighter weights before progressing."
+    },
+    {
+      "topic": "Consistency",
+      "category": "motivation",
+      "content": "Consistency beats intensity. Working out 3-4 times per week consistently will yield better results than sporadic intense sessions."
+    },
+    {
+      "topic": "Compound Exercises",
+      "category": "training",
+      "content": "Build your routine around compound movements like squats, deadlifts, bench press, and rows. These work multiple muscle groups and burn more calories."
+    },
+    {
+      "topic": "Pre-Workout Nutrition",
+      "category": "nutrition",
+      "content": "Eat a balanced meal with protein and carbs 2-3 hours before training, or a light snack 30-60 minutes before for energy."
+    },
+    {
+      "topic": "Post-Workout Nutrition",
+      "category": "nutrition",
+      "content": "Consume protein within 2 hours after training to support muscle repair. Include carbs to replenish glycogen stores."
+    },
+    {
+      "topic": "Rest Days",
+      "category": "training",
+      "content": "Rest days are essential for progress. Active recovery like walking or light stretching can help without overtaxing your system."
+    },
+    {
+      "topic": "Goal Setting",
+      "category": "motivation",
+      "content": "Set SMART goals: Specific, Measurable, Achievable, Relevant, and Time-bound. Track progress weekly to stay motivated."
+    },
+    {
+      "topic": "Cardio for Muscle",
+      "category": "training",
+      "content": "If building muscle, limit cardio to 2-3 sessions of 20-30 minutes per week. Too much cardio can interfere with muscle gains."
+    },
+    {
+      "topic": "Cardio for Fat Loss",
+      "category": "training",
+      "content": "For fat loss, combine strength training with 150-200 minutes of moderate cardio per week. HIIT can be effective in shorter time periods."
+    },
+    {
+      "topic": "Sleep",
+      "category": "recovery",
+      "content": "Poor sleep can reduce muscle protein synthesis by up to 18% and increase cortisol, which promotes fat storage. Prioritize quality sleep."
+    },
+    {
+      "topic": "Supplements",
+      "category": "nutrition",
+      "content": "Focus on whole foods first. The most evidence-backed supplements are creatine monohydrate, protein powder, and vitamin D if deficient."
+    },
+    {
+      "topic": "Alcohol",
+      "category": "nutrition",
+      "content": "Alcohol impairs muscle protein synthesis and recovery. Limit intake, especially after training days, for optimal results."
+    },
+    {
+      "topic": "Stress Management",
+      "category": "recovery",
+      "content": "Chronic stress elevates cortisol, which can lead to muscle breakdown and fat storage. Practice stress-reducing activities like meditation."
+    },
+    {
+      "topic": "Plateau Breaking",
+      "category": "training",
+      "content": "If progress stalls, try deload weeks, change exercise variations, adjust rep ranges, or increase training volume gradually."
+    },
+    {
+      "topic": "Mind-Muscle Connection",
+      "category": "training",
+      "content": "Focus on feeling the target muscle work during each rep. This improves muscle activation and leads to better results."
+    },
+    {
+      "topic": "Meal Prep",
+      "category": "nutrition",
+      "content": "Prepare meals in advance to stay on track with nutrition goals. Having healthy food ready reduces the temptation to eat poorly."
+    },
+    {
+      "topic": "Flexibility",
+      "category": "training",
+      "content": "Include stretching or mobility work in your routine. This improves range of motion, reduces injury risk, and aids recovery."
+    },
+    {
+      "topic": "Tracking Progress",
+      "category": "motivation",
+      "content": "Keep a workout log to track weights, reps, and how you feel. This data helps identify what works and keeps you accountable."
+    },
+    {
+      "topic": "Beginner Advice",
+      "category": "training",
+      "content": "As a beginner, focus on learning proper form, building consistency, and full-body workouts 3 times per week before advancing to splits."
+    }
+  ]
+}

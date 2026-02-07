@@ -1,0 +1,19 @@
+# SmartCoach AI Service - Requirements
+# Compatible with Python 3.10-3.12
+
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# AI - Google Gemini
+google-generativeai
+
+# Simple Vector Search
+numpy
+scikit-learn
+
+# Utilities
+python-dotenv
+pydantic
+aiofiles
+requests
