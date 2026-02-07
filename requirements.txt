@@ -6,7 +6,7 @@ fastapi
 uvicorn[standard]
 
 # AI - Google Gemini
-google-generativeai
+google-genai
 
 # Simple Vector Search
 numpy
