@@ -40,8 +40,9 @@ wheels/
 .coverage
 htmlcov/
 
-# Vector DB (if using ChromaDB locally)
+# Vector DB (if using ChromaDB or Qdrant locally)
 chroma_db/
+qdrant_storage/
 
 # Logs
 *.log

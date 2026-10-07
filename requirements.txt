@@ -1,19 +1,17 @@
 # SmartCoach AI Service - Requirements
-# Compatible with Python 3.10-3.12
-
-# Web Framework
+# Unified Phase 2 Dependencies
 fastapi
 uvicorn[standard]
-
-# AI - Google Gemini
-google-genai
-
-# Simple Vector Search
-numpy
+pydantic>=2.10.0
+qdrant-client>=1.12.0
+sentence-transformers>=3.0.0
+torch>=2.2.0
+instructor>=1.7.0
+google-genai>=2.0.0
 scikit-learn
-
-# Utilities
+numpy
 python-dotenv
-pydantic
-aiofiles
 requests
+httpx
+aiofiles
+jsonref
